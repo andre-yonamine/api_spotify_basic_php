@@ -7,5 +7,7 @@ usei o CURL para requisitar os dados e foreach para iterar sobre os dados, é be
 se você quiser dar uma olhada, procure por estes arquivos:
 
 source files -> aplication -> controllers -> spotify.php
+
 source files -> aplication -> models -> spotifyModel.php
+
 source files -> aplication -> views -> mdbcomponent -> spotifyform.php
